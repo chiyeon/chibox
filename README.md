@@ -13,11 +13,11 @@ my first rice !
  + colors: gruvbox
  + font: Source Code Pro
  + terminal: kitty
- + wallpaper: feh [on pixiv](https://www.pixiv.net/en/users/12845810/artworks)
- + editor: SpaceVim
+ + wallpaper: from [pixiv](https://www.pixiv.net/en/users/12845810/artworks) using feh
  + zsh theme: pure (included in .zsh)
 
 ## software
+ + SpaceVim (editor)
  + ranger (file explorer)
  + neofetch (naturally)
  + [my own snowfall sim!](https://github.com/chiyeon/snowfall)
