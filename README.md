@@ -1,5 +1,5 @@
 # chibox
-my first gruvbox-based rice
+my first rice !
 
 ## dependencies
  + zsh
