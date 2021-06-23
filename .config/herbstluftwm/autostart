@@ -202,7 +202,7 @@ done
 # start polybar
 ~/.config/polybar/docky/launch.sh
 
-# run picom (picom-rounded-corners)
+# run picom (picom-jonaburg-git)
 picom --experimental-backend
 
 # make background
