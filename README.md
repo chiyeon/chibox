@@ -22,3 +22,6 @@ my first rice !
  + neofetch (naturally)
  + [my own snowfall sim!](https://github.com/chiyeon/snowfall)
  + cmus (music)
+
+## preview
+![preview](https://i.imgur.com/ZSobAjh.png)
